@@ -1,0 +1,32 @@
+---
+court: "United States Circuit Court for the District of Colorado"
+decided: "1882-01-04"
+citations: ["2 Colo. L. Rep. 193"]
+reporter: "colo-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THATCH v. METROPOLE INSURANCE CO."]
+source_url: "https://static.case.law/colo-l-rep/2/cases/0193-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12127053
+---
+
+# Thatch v. Metropole Insurance Co.
+
+## Majority (Hallett, J.,)
+
+Hallett, J.,
+orally :
+This is an action upon a policy of insurance. Plaintiff alleges that Emma V. B. Oray, on the 21st day of August, A. D. 1880, obtained of the defendant, insurance on certain premises in the town of Idaho Springs. The amount of the insurance is not stated, I believe, but it is alleged that the policy provided for the payment to plaintiff in case of loss or damage by fire of some sum, as his interest might appear. It is alleged that plaintiff was a creditor of Emma Oray, and that the indebtedness was secured by a trust deed on these premises; that the premises were destroyed by fire, and plaintiff’s loss thereby exceeds the sum of $2,000. There is no definite information in the complaint as to the amount of the insurance, or the amount of the indebtedness due plaintiff from the party insured. It does appear that the policy was taken out by Emma Oray, and paid for by her. She paid the premium. Plaintiff demands judgment for $2,000.
+If it appeared in the complaint that insurance was taken out by this woman, and that the stipulation of the policy is, that the loss, if any should occur, should be paid to the plaintiff, all of it, —the entire sum,—a question would be presented as to the right of the plaintiff to recover on such an instrument, which is not very well settled in the authorities. Perhaps the weight of authority is that in such case the plaintiff would be entitled to maintain the action. That is fo say, if two persons contract for the benefit of a third, the third party, although a stranger to the consideration, may maintain a suit upon that contract. But that is not the case as presented here. It is entirely consistent with the allegations of this complaint that the sum due the plaintiff was much less than the amount for which the policy of insurance was issued. And at all events, whatever the fact may be as to that, the policy of insurance provided for payment to the plaintiff as his interest might appear. At the time of insurance he was a creditor of the party taking out the policy, and his indebtedness might be entirely extinguished or greatly reduced before the policy should mature. That was, perhaps, the reason for putting in the policy this clause in this phraseology, “payment should be made to him as his interest might appear.” That is, more or less; the sum due him, whatever it might be, and upon that no right of action can arise to the plaintiff, because it is not a stipulation to pay the plaintiff the loss, all of it, whatever it may be, upon maturity of the policy; and that must be the agreement to enable the plaintiff, under a stipulation of this kind, to recover in the action. That is very well expressed in an opinion in the 37th Michigan Reports, page 613, in the case of the Hartford Insurance Company v. Davenport. The Court say: “We are also of opinion that the plaintiffs below showed no right to sue upon the contract.”
+And in this instance the language of the policy Was substantially the same as in the case under consideration. The action was by a mortgagee seeking to recover.
+“The parties to this policy were Headley and the company. * * The policy was to insure his interest and not that of the mortgagees, and any money paid to them would enure to his benefit. They hold no assignment of the policy and sue as original parties
+Hugh Butler, attorney for plaintiff.
+Charles & Dillon, attorneys for defendant.
+“No one can dispute the right of parties to a contract to make money payable to a third person, if they see fit.”
+That is the proposition as I originally stated it, that if one party contracts with another to pay money to a third person, that may be a contract which the third person may sue on.
+“It is not important in this case to consider whether, if the policy before us gave the mortgagees an exclusive right to the whole insurance money, they might not sue for it. In the present case the policy does not purport to do any such thing.”.
+That is the case at bar.
+“It covers property not included in the mortgage, and only provides for payment to them of the insurance money due upon the property with which they were concerned. Upon the trial it appeared that other property was burned, and the Court excluded them from recovering beyond their own share, and Headley lost his share of the money entirely.
+“ Now there can be no splitting up of the causes of action on a single policy. The party insured retained, by the terms of the policy itself, interests beyond the control of the mortgagees. Their interests were several and not joint. Under such circumstances it cannot be held that the mortgagees have any control of the policy which would authorize them to sue upon it. No doubt the company would be protected in paying them their share as equitable appointees, but they cannot be treated as trustees for Headley’s benefit. He and not they must be held the legal owner of the policy, which stands in his name and was made for his benefit.”
+That is the rule here. This Mrs. Oray is owner of this policy, and entitled to sue upon it. Mr. Thatch has no right of action whatever. The demurrer is sustained.
