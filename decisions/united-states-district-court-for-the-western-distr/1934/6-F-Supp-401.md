@@ -1,0 +1,43 @@
+---
+court: "United States District Court for the Western District of Oklahoma"
+docket: "5047"
+decided: "1934-02-10"
+citations: ["6 F. Supp. 401"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES v. BOARD OF COM’RS OF COMANCHE COUNTY, OKL."]
+source_url: "https://static.case.law/f-supp/6/cases/0401-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4132429
+cites_cases: ["118 U. S. 375", "130 U. S. 263", "130 Wash. 537", "14 F.(2d) 784", "188 U. S. 436", "224 U. S. 665", "224 U. S. 680", "228 P. 513", "23 S. Ct. 478", "24 Stat. 388", "241 U. S. 597", "243 F. 854", "270 U. S. 181", "280 U. S. 363", "290 F. 628", "31 Stat. 672", "32 S. Ct. 571", "36 S. Ct. 696", "47 L. Ed. 532"]
+---
+
+# United States v. Board of Com'rs
+
+## Majority (VAUGHT, District Judge.)
+
+VAUGHT, District Judge.
+This is an action by the plaintiff on behalf of its Indian ward, Neda Birdsong, née Parker, against Comanche county, Okl., to recover $986.23 taxes paid on account of taxing her allotment during the period of 1918 to 1925, inclusive, together with interest on said taxes so paid.
+The following facts are stipulated:
+That Neda Birdsong is the daughter of Quanah Parker, and is an adult member of the Comanche Tribe of Indians in Oklahoma, allottee No. 2249. That, under the Act of Congress approved June 6, 1900 (31 Stat. 672), the said Neda Birdsong was allotted the northeast quarter of section three, township 2 north, range 14 west of the Indian Meridian, in Oklahoma. On the 25th day of August, 1901, the United States of America issued to said allottee, Ne-dale or Laura Parker, now known as Neda Birdsong, a trust patent for said lands containing the restriction clause, said restriction running for twenty-five years. The trust period contained in said trust patent was extended by Executive Order to August 25, 1936. That on or about the 24th day of August, 1917, during said trust period, without any application on behalf of or consent by said allottee, the Secretary of the Interior issued and delivered to said allottee a fee-simple patent to said lands, which was recorded in Book 147, p. 443, of the land records of Comanehe county. The county assessor of said county, for the years 1918 to 1925, inclusive, assessed said lands for taxation purposes, and there was levied and collected on said lands during said term of years $986.23. That on June 2,1927, said fee-simple patent was canceled and since that date said lands have been removed from the tax rolls of said county. In addition to the stipulation, evidence discloses that the allot-tee protested vigorously the issuance of the fee-simple patent and that the patent was issued over her protest and without hex application and delivery was made to her over her protest, and, at the time of the delivery, that the allottee was advised that, if this fee-simple patent were not placed of record, the allottee would be in grave danger of losing her allotment. These facts were testified to by the allottee as well as by the Superintendent of the Kiowa Indian Agency, who handled the matter.
+The Superintendent testified: “When these patents came out, * * * I went to her home and offered her the patent, and she declined to accept it; protested very strenuously and then I went down to the telegraph office at the railroad station at Cache and sent to the Commissioner of Indian Affairs at that time a long telegram, in which I transmitted Mrs. Birdsong’s refusal to accept the patent, and likewise my own protest over the action that had been taken by the Department, and analyzed the reason for my protest. In other words, I objected to the issuance of this patent just as much as Mrs. Birdsong did, * * * but I received a telegram from Washington directing me to deliver the patent.”
+After receipt of the telegram, the delivery is described by the Superintendent as follows: “I went to Mrs. Birdsong’s home and told her the Department had directed me to dehver the patent and here it was, and I then forced the patent on her, that'was all. I had been directed so to do, and I forced the patent on her. * * * In accordance with our practice, I notified the County Assessor that the patent had been issued, and it has always been my impression that the land went on the tax rolls based on my letter to the County Assessor, rather than upon any recording of the patent. I have never known whether the patent was recorded.”
+The allottee testified as follows:
+“Q. Tell the court under what circumstances it was left with you [referring to the patent]. A. He just left it on the table; that is, just left it there at my place and I told him I didn’t want it, and they just left it and drove off. * * *
+“Q. What did you do about putting it on record? A. Well, they told me I had to put it on record, so I went to the courthouse and told them I was putting it on record, but I was protesting it all the way through.
+“Q. What did Mr. Stinehcomb (the Superintendent) tell you about putting it of record? A. He told me I had to put it on record.”
+With reference to the payment of the taxes the allottee testified:
+“Q. Did you make any written or formal protest with the County Treasurer at the time you paid the taxes? A. No, but I never failed to tell every time I paid my taxes that I was paying under protest.
+“Q. Yerbal protest? A. In writing; a lot of my receipts were marked ‘Under protest’, and when I didn’t write it I told her.
+“Q. How were these receipts designated as being protested; was it in the form of cheeks? A. No, most of them were written on the cheeks, on the bottom of the eheeks, and some of them were written on the tax receipts, and then I told her besides.
+“Q. Paid under protest? A. Yes.”
+There is little or no contention in this case that this patent was not issued by the government over the protest, without the consent, and without any application on the part of the allottee.
+It is clear that this allottee was allotted her lands under the provision of the General Allotment Act of February 8, 1887 (24 Stat. 388), and under that act she had a right to maintain her lands as restricted and free from all taxation. This right was a vested property right to her, and she could not be divested of it even by Congress without her consent. See Morrow v. United States (C. C. A.) 243 F. 854; United States v. Benewah County (C. C. A.) 290 F. 628; Iyall v. Yakima County, 130 Wash. 537, 228 P. 513; Choate v. Trapp, 224 U. S. 665, 32 S. Ct. 565, 56 L. Ed. 941; English v. Richardson, 224 U. S. 680, 32 S. Ct. 571, 56 L. Ed. 949; Carpenter v. Shaw, 280 U. S. 363, 50 S. Ct. 121, 74 L. Ed. 478.
+The refusal to accept a patent by the Indian renders the patent void, and his lands are not subject to taxation. See citations above.
+The government recognized its mistake in issuing this patent by later canceling the patent, as above set out, and in the court's judgment the reason why the government canceled the patent was that it recognized that it was a void patent.
+The question most strongly urged by the defendant is that the statute of limitations interferes with granting the relief prayed for. The statute of limitations, however, does not apply where the United States is a party. United States v. Minnesota, 270 U. S. 181, 46 S. Ct. 298, 70 L. Ed. 539.
+This action was instituted by the government in its governmental capacity on behalf of its ward, and the limitations do not operate against the United States when the action is brought in public interest. United States v. Rickert, 188 U. S. 436, 23 S. Ct. 478, 47 L. Ed. 532; United States v. Kagama, 118 U. S. 375, 6 S. Ct. 1109, 30 L. Ed. 228; United States v. Nice, 241 U. S. 597, 36 S. Ct. 696, 60 L. Ed. 1192. Neither can laches be pleaded against the United States. United States v. Dewey County, S. D. (D. C.) 14 F.(2d) 784; United States v. Insley, 130 U. S. 263, 9 S. Ct. 485, 32 L. Ed. 968.
+The court is of the opinion, therefore, that these lands were not taxable because the patent was void and not binding as a valid patent against the allottee.
+On the question of interest, the court appreciates the position of the defendant. Where taxes are paid under protest, the collecting authority can only hold them in trust, and since Comanche county would be regarded in this ease as a trustee, this court knows of no provision for the payment of interest except by taking the interest from some other fund whose application had been provided by statute.
+Judgment will be rendered in favor o£ the plaintiff and against the defendant in the sum of $986.23 and for the cost of this action. A proper form of judgment may be submitted.
