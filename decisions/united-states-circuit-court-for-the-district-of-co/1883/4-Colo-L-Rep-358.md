@@ -1,0 +1,22 @@
+---
+court: "United States Circuit Court for the District of Colorado"
+decided: "1883-12"
+citations: ["4 Colo. L. Rep. 358"]
+reporter: "colo-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JEROME v. COMMISSIONERS RIO GRANDE COUNTY. WILDER v. THE SAME."]
+source_url: "https://static.case.law/colo-l-rep/4/cases/0358-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12134506
+cites_cases: ["14 Otto 209"]
+---
+
+# Jerome v. Commissioners Rio Grande County
+
+## Majority (Hallett, J.)
+
+Hallett, J.
+These actions are upon warrants signed by the chairman of the board of county commissioners and the clerk of the county, on the county treasury for different sums, and payable to different persons or bearer; all of them excepting two, (to be mentioned hereafter) appear to have been issued for the current expenses of the county. The warrants were not issued to the plaintiff, and the citizenship of the persons to whom they were issued is not averred. A question has arisen whether upon such warrants payable to a person named, or to bearer, which circulate from hand to had without endorsement, an action may be maintained by a holder, a citizen of another State, against a county in this State, without showing that the persons to whom they were issued are qualified to sue in this Court. It cannot be contended that such warrants are negotiable as bills of exchange or promissory notes, and free from all equities in the hands of an innocent holder. All holders take them subject to any defense that may be made against the payee, even when they are payable to bearer. (Dillon’s Mun. Corp., 3d Ed., Secs. 487 and 503.) Nevertheless, as they are payable to bearer, the property therein passes by delivery, and “a note payable to bearer is payable to anybody, and not affected by the disabilities of the nominal payee.” (Bank of Kentucky v. Wister, 2 Peters, 318.) Such instruments are not assignable within the meaning of the act of Congress of 1875, regulating the jurisdiction of this Court. (18 Stat., 470.) They are taken to be due on an original and direct promise from the maker to the bearer, and not by assignment from the payee or first holder. (Thompson v. Perrine, 16 Otto, 589.) This is true only when the plaintiff becomes the owner of the paper by the delivery thereof. If his title is colorable only and procured for the sole purpose of enabling him to bring suit in a Federal Court, the action will be dismissed. (Williams v. Nottawa, 14 Otto 209.) But of that we have no information at present. Objection is also made that the demands for which the warrants were issued having been allowed by the board of county commissioners cannot be the subject of an action against the county. The remedy of plaintiff, if any, is by mandamus to compel the county to levy and collect a tax with which to pay the amounts due on the warrants. Whether this is the course of proceeding in the Courts of this State is not shown; but it is certain that the practice in the Federal Courts is to proceed to judgment as a foundation for a writ of mandamus. It is only a question whether the money shall be taken to be due and owfing from the county on the warrants alone, or after judgment on the warrants; and whatever the rule may be in the Courts of the State, it is the settled rule of the Federal Courts to obtain judgment in the first instance. (Chickaming v. Carpenter, 16 Otto, 663.) In either case the county cannot be compelled to pay except in the time and manner provided by law. As to two of the warrants ^escribed in the sixth and seventh counts of Jerome’s complaint, the rule may be different. They appear to have been issued to Rollins & Young for interest on a judgment. The right of a plaintiff to interest on a judgment recovered by him is the same as the right to the principal sum for which the judgment may have been entered, and the remedy to enforce payment thereof is the same. As to the judgment and the interest thereon, there appears to be no reason for allowing a second action in the same jurisdiction. A second action can only have the effect to multiply costs without substantial results. The demurrer will be sustained to the sixth and seventh counts of the complaint in Jerome’s case, and otherwise overruled.
+John L. Jerome, for plaintiffs.
+L. C. Rockwell, for defendant.
