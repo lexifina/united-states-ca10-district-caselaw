@@ -2,7 +2,7 @@
 court: "United States District Court for the District of Colorado"
 docket: "96-WY-670-AJ"
 decided: "1998-04-17"
-citations: ["4 F. Supp. 2d 989", "4 F. Supp. 2d 998"]
+citations: ["4 F. Supp. 2d 989"]
 reporter: "f-supp-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Lance CARR, Plaintiff, v. The FORT MORGAN SCHOOL DISTRICT, a body cor
 source_url: "https://static.case.law/f-supp-2d/4/cases/0989-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1583889
-cites_cases: ["124 F.3d 1221", "138 F.3d 1083", "18 L.Ed. 752", "1991 WL 164275", "1996 WL 162275", "1996 WL 507303", "1996 WL 8021", "1998 WL 45289", "28 U.S.C. § 1961", "32 F.3d 1472", "36 F.3d 952", "390 U.S. 400", "42 U.S.C. § 12133", "42 U.S.C. § 12205", "422 U.S. 405", "424 U.S. 747", "429 U.S. 920", "461 U.S. 424", "465 U.S. 886", "474 U.S. 946", "50 L.Ed.2d 286", "506 U.S. 103", "535 F.2d 257", "560 F.Supp. 1161", "581 F.2d 275", "61 F.3d 1505", "678 F.2d 257", "713 F.2d 546", "73 F.3d 364", "74 F.3d 1250", "742 F.2d 916", "743 F.Supp. 1422", "747 F.2d 885", "763 F.2d 1166", "777 F.2d 1155", "860 F.2d 1317", "861 F.2d 631", "876 F.2d 808", "88 L.Ed.2d 289", "890 F.2d 225", "894 F.2d 1150", "929 F.2d 1501", "941 F.2d 1213", "951 F.Supp. 1039", "953 F.Supp. 341", "97 S.Ct. 314", "974 F.2d 1248", "981 F.2d 1569"]
+cites_cases: ["138 F.3d 1083", "18 L.Ed. 752", "1991 WL 164275", "1996 WL 507303", "1996 WL 8021", "28 U.S.C. § 1961", "32 F.3d 1472", "36 F.3d 952", "42 U.S.C. § 12133", "422 U.S. 405", "424 U.S. 747", "429 U.S. 920", "474 U.S. 946", "50 L.Ed.2d 286", "535 F.2d 257", "560 F.Supp. 1161", "678 F.2d 257", "73 F.3d 364", "74 F.3d 1250", "742 F.2d 916", "747 F.2d 885", "763 F.2d 1166", "777 F.2d 1155", "860 F.2d 1317", "861 F.2d 631", "876 F.2d 808", "88 L.Ed.2d 289", "890 F.2d 225", "894 F.2d 1150", "929 F.2d 1501", "941 F.2d 1213", "951 F.Supp. 1039", "953 F.Supp. 341", "97 S.Ct. 314", "981 F.2d 1569"]
 ---
 
 # Carr v. Fort Morgan School District
