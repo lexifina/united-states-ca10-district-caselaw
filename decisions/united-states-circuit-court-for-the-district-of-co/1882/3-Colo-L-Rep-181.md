@@ -1,0 +1,26 @@
+---
+court: "United States Circuit Court for the District of Colorado"
+decided: "1882-10"
+citations: ["3 Colo. L. Rep. 181"]
+reporter: "colo-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HENRY MOLLANDIN v. THE UNION PACIFIC RAILWAY CO."]
+source_url: "https://static.case.law/colo-l-rep/3/cases/0181-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12127236
+---
+
+# Mollandin v. Union Pacific Railway Co.
+
+## Majority
+
+Plaintiff set up title to lots 1 to 7 inclusive, in Block 1, in Hoyt & Robinson’s addition to the City of Denver, fronting 216 feet on Wewatta street, on which he had erected a hotel and several dwelling houses. After the buildings were erected, and in September, 1881, defendant laid a railroad track through Wewatta street in front of plaintiff’s property, about eighteen and one-half feet from the sidewalk. The track is above the level of the street, and in itself a considerable obstruction to loaded wagons, and light wagons could not pass over it easily in front of plaintiff’s property. But the crossings on either side at Ninteenth and Twentieth streets are convenient for all vehicles. Two other tracks were laid in Wewatta street on the opposite side from the plaintiff’s property by other companies which were not parties to this action. Plaintiff alleged that by the track laid by defendant, and the use made .of it, his “ facilities for ingress to and from his said hotel and dwelling houses and lots, has been greatly interrupted and cut off, and his said hotel and dwelling houses have been exposed to damage by fire, and the rental value of his property greatly diminished, and he was subjected to great inconvenience, to his damage in the sum of $15,000.”
+The answer denies most of the allegations of the complaint and alleges that the Colorado Central Railroad Company, in May, 1871, owned a railroad extending from Golden to Denver and elsewhere in the State of Colorado; that the City of Denver then, and ever since that time, owned the said Wewatta street by title in fee, and that on the 25th day of May, 1871, the city by ordinance granted to said Colorado Central, the right of way for its track in and through the said Wewatta street. The ordinance was set out in the answer in full, and appeared to be of the scope and effect as stated. It was further alleged that on the 1st day of March, 1879, the said Colorado Central Railroad Company made and executed to the defendant a lease of its lines, tracks, rolling stock and property, and all its franchises, whereby the defendant acquired a right to build its said road in the said Wewatta street.
+Plaintiff denied that the fee to the said Wewatta street was in the city, and claimed that the dedication of the street to public use, by Hoyt & Robinson, was an easement only, reserving the fee to the owners of abutting lots. It was understood that this point would turn on the meaning and effect of certain statutes of the late Territory, in force at the time the plat of Hoyt & Robinson’s addition was put on record, and also on the grant attached to the said plat. The case went off on another point, however, and the matter of the- ownership of the street was not in any way investigated.
+It seemed to be conceded in the replication to the answer, and by plaintiff’s counsel at the trial, that the right of way in Wewatta street was given by ordinance to the Colorado Central Railroad Company, and that the latter company had executed a lease to defendant as alleged in the answer.
+But it was contended that this was no defense to the action, because the right and interest of the plaintiff in the street in front of his property is secured to him by Sec. 15, of the Bill of Rights of the State Constitution, (R. S., p. 30.) That section declares “that private property shall not be taken or damaged for public or private use without just compensation;” and although it has been said that property cannot be “ taken ” within the meaning of that provision except by an appropriation of the land itself, no such limitation is applicable to the clause relating to damages. The beneficial pise of plaintiff’s estate embraces the right of ingress and egress, which cannot be withdrawn or obstfucted without substantial damage to it. The use of Wewatta street is therefore a right of property in plaintiff, which, if not “ taken,” is certainly “ damaged,” within the meaning of' the Constitution, by the act of defendant in building its road through that street. This point did not arise in the case of the present plaintiff against the Colorado Central Railroad Company, reported in 4 Colorado, 154, and that case is not controlling. The question is discussed in Rigney v. Chicago, 102 Illinois, 64, with the result now suggested. That case is very significant, showing that a change in the phraseology of the Constitution of the State of Illinois was intended to enlarge the remedy.
+S. E. Browne, for plaintiff.
+Willard Teller, for defendant.
+Of this opinion was the Court (Hallett, J.), and the jury was advised that the plaintiff was entitled to damages. And after deliberating they returned a verdict of $1850.
+Several questions relating to the measure of damages are to be considered on motion for new trial.
