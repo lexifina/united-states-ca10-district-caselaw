@@ -1,0 +1,31 @@
+---
+court: "United States District Court for the District of Kansas"
+docket: "KC-I75-A"
+decided: "1953-01-12"
+citations: ["109 F. Supp. 1"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ARENAS et al. v. STERNECKER et al."]
+source_url: "https://static.case.law/f-supp/109/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 310020
+cites_cases: ["28 U.S.C.A. § 1963", "62 Stat. 958"]
+---
+
+# Arenas v. Sternecker
+
+## Majority (MELLOTT, Chief Judge.)
+
+MELLOTT, Chief Judge.
+The issue before tlhe court arises upon the report of a referee, appointed in accordance with the statutes of Kansas providing for “Proceedings in Aid of Execution,” to enforce a money judgment entered in the United States District Court for the District of Nebraska, Lincoln Division, on November 21, 1946 in the amount of $18,500, with interest thereon at the rate of six percent per annum and costs amounting to $174.77.
+At the outset some questions, probably of only academic importance, intrude: Was the judgment properly “registered,” as contemplated by the applicable statutes and rules? If not, what is the procedure contemplated; and what, if anything, should be done at this juncture?
+Title 28 U.S.C.A. § 1963, shown in the margin, provides that a judgment such as this may “be registered in any other district by filing therein a certified copy of such judgment” which shall then “have the same effect as a judgment of the district court of the district where registered and may be enforced in like manner.” The term “registered” is not defined; but, as applicable here, it seems to connote a filing with the clerk and an entering upon the records in that office, in substantially the same -manner as a judgment rendered by this court. This seems to have been the view taken by the clerk, although no duplicate copy of the judgment was secured, as contemplated by local rule of practice XXI — -(4), adopted to make fully effective the use of the record book prescribed by the Administrative Office of the United States Courts under Rule 79(b) of the Rules of Civil Procedure, 28 U.S.C.A. But t(he failure of the clerk to require the duplicate copy has not prejudiced the defendant, and is a mere irregularity which the clerk will now correct; for the judgment is on file in this court and properly indexed for the information of the public. Moreover, the defendant has had notice of t/he filing and attempted registering of the judgment at all times since a certified copy of it was filed with the clerk.
+Rule 69(a), F.R.C.P., is .applicable. After a certified copy of the judgment was filed in this court execution was issued and returned “wholly unsatisfied, no property found on which to malee levy.” Order for the appearance of debtor in this court was subsequently entered, he appeared and was examined at length; but the pressure of other work animated this court in suggesting that the judgment creditor avail himself of the proceedings on and in aid of execution prescribed by the statutes of Kansas. That was done and a referee was appointed, who has now filed a report.
+The judgment debtor assails the referee’s report because, it is said, the debt- or’s answers were not “reduced to writing” as required by the statute. The creditor concedes the answers were not reduced to writing; so it is manifest the statutory-procedure was not strictly followed.® The court, therefore, cannot approve the report. It is obvious, however, that the referee has spent considerable time and effort hearing the evidence, examining court records, checking deeds, both recorded and unrecorded, and preparing detailed findings of fact and conclusions of law. The court therefore awards him the amount suggested by him as a reasonable fee for services rendered to date, viz., $75. That amount will be taxed by the clerk as costs in this court and have precedence over the judgment and costs referred to above.
+The order heretofore made appointing the referee is still extant; and under it tfhe referee may proceed. Whether the judgment creditor should be required to make a deposit sufficient to cover the expense of taking and transcribing the evidence or whether some other method of procedure should be adopted by the parties is not determined at this time.
+. G.S.Kan.1949, Ch. 60, Art. 34, 60-3485 et seq.
+. “Registration in other districts. A judgment in an action for the recovery of money or property entered in any district court which has become final by appeal or expiration of time for appeal may be registered in any other district by filing 1 herein a certified copy of such judgment. A judgment so registered shall have the same effect as a judgment of the district court of the district where registered and may be enforced in like manner.
+“A certified copy of the satisfaction of any judgment in whole or in part may be registered in like manner in any dis- , trict in which the judgment is a lien. June 25, 1948, c. 616, 62 Stat. 958.”
+. “In General. Process to enforce a judgment for the payment of money shall be a writ of execution, unless the court directs otherwise. The procedure on execution, in proceedings supplementary to and in aid of a judgment, and in proceedings on and in aid of execution shall be in accordance with the practice and procedure of the state in which the district court is held, existing at the time the remedy is sought, except that any statute of the United States governs to the extent that it is applicable. In aid of the judgment or execution, the judgment creditor or his successor in interest when that interest appears of record, may examine any person, including the judgment debtor, in the manner provided in these rules for taking depositions or in the manner provided by the practice of the state in which the district court is hold.”
+. G.S.Kan.1949, 60-3493. “Examinations before judge or referee; answer by garnishee. The party or witness may be required to attend before the judge or before a referee appointed by the court or judge. All examinations and answers before a judge or referee under this article must be on oath and reduced to writing; but when a corporation answers, the answer must be on oath of an officer thereof.”
