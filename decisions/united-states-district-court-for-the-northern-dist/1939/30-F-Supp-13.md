@@ -1,0 +1,36 @@
+---
+court: "United States District Court for the Northern District of Oklahoma"
+docket: "14"
+decided: "1939-11-14"
+citations: ["30 F. Supp. 13"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES v. MULLENDORE et al."]
+source_url: "https://static.case.law/f-supp/30/cases/0013-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4216786
+cites_cases: ["204 S.W. 644", "22 Okl. 712", "241 U.S. 432", "25 U.S.C.A. § 331", "259 F. 394", "30 Okl.Cr. 259", "70 Mont. 355", "84 Tex. Cr.R. 75"]
+---
+
+# United States v. Mullendore
+
+## Majority (FRANKLIN E. KENNAMER, District Judge.)
+
+FRANKLIN E. KENNAMER, District Judge.
+Mary' Black De Roin, a member of the •Osage Tribe, died in May, 1928, intestate, without having received a certificate of competency, leaving as one of her heirs her husband, Frank De Roin, an Indian but not a member of the Osage Tribe. Her estate consisted of lands allotted to her by the Osage Nation, other lands purchased by her, and money on deposit with and. under the control of the Secretary of the ■Interior. Letters of Administration on her estate were issued May 31, 1928, notice to. creditors was first published June 29, 1928. Total claims against her estate aggregated approximately one-tenth of the money above mentioned. •
+May 15, 1929, Frank De Roin entered into possession of the inherited lands, and on that day executed a lease to Alfred A. Drummond, whom he placed in possession, and a note and mortgage to E. L. Corn-stock. Defendants claim title through the lease and through Sheriff’s Deed issued on foreclosure of the mortgage.
+On December 16, 1929, the Probate Court entered its decree determining the heirs and distributing the property of the deceased. On February 19, 1930, the Secretary of the Interior delivered to the Superintendent of the Pawnee Indian Agency Frank De Roin’s portion of the fund in his hands to the credit of the deceased at the time of her death. ■
+Plaintiff asserts that any alienation of his inherited lands by De Roin prior to February 19, 1930, is void under that part of Section 7 of the Act of April 18, 1912, 37 Stat.L. 86, 88, which reads as follows: “That no lands or moneys inherited from Osage allottees shall be subject to or be taken or sold to secure the payment of any indebtedness incurred by such heir prior to the time such lands • and, moneys are turned over to, such heirs”, because the “lánds and moneys” were not turned over to him until February 19, 1930, even if the lands were turned over •to. him before that date;
+• Two questions are presented: First, is Section 7 controlling; second, if. controlling, is it to be construed to prohibit alienation of inherited land until both lands and moneys are turned over to the heir.
+" As to the first question:
+Section 6 of the'Act of April 18, 1912, 37 Stat.L. 86, 87, provides, in part: “When the heirs of such deceased allot-tees * * * are not members of the tribe, the restrictions on alienation are hereby removed.” Frank De Roin was not a member of the tribe. Under the provisions of Section 6 “restrictions on alienation” by him are removed. “Restriction” as used in such acts is synonymous with “prohibition”. Barnett v. Kunkel, 8 Cir., 259 F. 394, 398. Obviously, the quoted portion of Section 7 contains a prohibition against alienation and so imposes a restriction, and if Section 7 controls it conflicts with Section 6 insofar as non-members of the tribe are concerned.
+It is the duty of the Court to con-, strue a statute so as to give effect to each and every part thereof , and so as to avoid conflict between various provisions of the statute. 59 C.J. 948.
+If the language of Section 6 is taken to mean what it says, restrictions on the alienation of Frank De Roin’s interest in this land are removed by it. This language is clear and definite. The language of Section 7 is not clear, because of the word ■“sucji” preceding “heir”, but. by holding that Section 7 applies to heirs not included in the classification set forth in Section 6, all conflict is avoided and each section of the .statute has a field for operation without encroaching upon the field in which the other section operates. •
+Reading the Act of April 18, 1912 as a whole, there is apparent in it a purpose to protect Osage allottees' and their. Osage Indian heirs through the imposition of restrictions..upon the alienation of their allotted lands and trust moneys, but there seems to be no policy for the protection of non-members of the tribe, the implication being to the contrary. Compare Levindale Lead & Zinc Co. v. Coleman, 241 U.S. 432, 36 S.Ct. 644, 60 L.Ed. 1080; Sec. 5, Act of March 2, 1929, 45 Stat.L. 1478, 1481, 25 U.S.C.A. § 331 note.
+I therefore conclude that the question of. the alienation’of Frank De Roin’s interest in the lands of Mary Black De Roin is controlled by the provisions' of Section 6 rather than by the provisions of Section 7 and that the lease and mortgage were and are valid.
+As to the second question:
+Even were Section 7 applicable here, it is still my opinion that that Section does not invalidate the lease and mortgage. The language of the statute is “that no lands or moneys inherited * * * shall be subject to or be taken or sold to secure the payment of any indebtedness incurred by such heir prior to the time such lands and moneys are turned over to such heirs” but the1 Courts have many times held that “and” in a' statute may be read to mean “or”. Ex parte Clarke, 30 Okl.Cr. 259, 236 P. 66; State v. Hooker, 22 Okl. 712, 98 P. 964; State v. Cooney, 70 Mont. 355, 225 P. 1007; Alexander v. State, 84 Tex. Cr.R. 75, 204 S.W. 644. There seems to be no logical reason for maintaining restrictions on the land until such time as the money may be turned over to the heir. A contrary holding would make the title to lands dependent upon matters which could not be ascertained from land records and would tend to make such lands unmarketable.-
+There is some contention that- the land had not been “turned over” to De Roin at the time he executed the instruments in question but I cannot subscribe to that construction of the language quoted. The phrase is not a technical one and it' is my view that the requirement of the statute is satisfied when the heir is placed in possession of the property. Technical consideration of whether or not De Roin acquired his title upon the death of the' ancestor or upon the date of the decree of distribution or at some intermediate time seems to be beside the point here, although it may be noted that the Statutes of Oklahoma provide the administrator of an estate takes possession only for the purposes of administration and as soon as it appears that the lands are not necessary for the payment of debts, the lands shall be delivered to the heirs. Sec. 1193, 1218, Okla.Stat.1931, 58 Okl.St.Ann. §§ 251, 291.
+The facts stated in this opinion were agreed upon at a pretrial conference, and . it appearing the facts are not in dispute and that questions of law 'only are involved in the case, the case has been fully briefed and decided without further proceedings.
+The plaintiff’s bill is dismissed' with prejudice.
