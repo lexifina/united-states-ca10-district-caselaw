@@ -1,0 +1,26 @@
+---
+court: "United States Circuit Court for the District of Colorado"
+decided: "1882-05-12"
+citations: ["2 Colo. L. Rep. 465"]
+reporter: "colo-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PALMER v. THE DENVER & RIO GRANDE R’Y. CO."]
+source_url: "https://static.case.law/colo-l-rep/2/cases/0465-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12138189
+---
+
+# Palmer v. Denver & Rio Grande R'y. Co.
+
+## Majority (Hallett, J.)
+
+Hallett, J.
+In this case there has been a good deal of discussion as to the sufficiency of the complaint. As it now stands, it is an action for injuries received by the plaintiff on account of the defective construction, as he alleges, of a caboose car attached to a freight train. The plaintiff was a brakeman in the service of the company, engaged in operating a freight train, and this car left the track, which gave him such alarm that he sprung from it, and received some injury to his shoulder by coming in. contact with the earth.
+He avers that the car in which he was riding was not properly constructed, that it had but four wheels, and these were attached to the car so firmly that there was no room for the wheels to accommodate themselves to the curves of the road; that whenever they came to a curve, the car was likely to leave the track, as it did on this occasion. He avers that when the road was first opened, when the company first began to operate the road, many of the caboose cars were constructed in this way, but that they had been withdrawn, nearly all of therm—he does not say how many remained in use—that nearly all of them had been withdrawn by the company, and others put in their place, of the ordinary pattern, which were adapted to the service; that he himself had no knowledge of the defect in the car; it was so constructed as not to attract his attention, and he went upon it without suspicion of danger in respect to its adaptability to the service, and that it would not keep the track.
+Assuming the facts to be as stated, I have no doubt as to the right of action in the plaintiff. Of course we understand that employees in the service of a railroad company accept the ordinary hazards; such perils as are incident to the service. But it is also a rule that the company is bound to have safe and suitable machinery in operating their road, so as not to expose the people in their service to unnecessary dangers, such as may be avoided by reasonable care in the construction of their cars, and other apparatus upon the road.
+At first I supposed that it was beyond question that the plaintiff must have been ignorant of the defect in the car, in order to recover in the action. That is averred in this complaint, that he was ignorant. After reading a great many cases, I have some doubt now upon that proposition.
+It is a question in my mind whether such a defect as this— it being averred, or the facts being shown from which it would appear that the company, having knowledge of the dangerous character of the car, and the circumstance that some of the cars had been withdrawn from use, which may be said to afford some reasonable ground for belief on the part of the employees of the company that it was the intention of the company to withdraw all of them from use very soon, and in that way amounting almost to a promise that they would be withdrawn. I should doubt whether he might not recover, even if it should appear that the character of the car was known to him. But that is not presented in this demurrer. The averment here is that the defect was not known to him; that the cars generally in use upon the road were of a proper construction, and that this was a dangerous car, and which was liable to accident at all times. The company having knowledge of that fact, continuing to use it, it would seem that the right of action is clear.
+W. W. Cover and T. A. Green, for plaintiff.
+E. 0. Wolcott, for defendant.
+The demurrer will be overruled.
