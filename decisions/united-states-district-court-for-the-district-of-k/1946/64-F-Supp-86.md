@@ -1,0 +1,49 @@
+---
+court: "United States District Court for the District of Kansas"
+docket: "Civil Action No. 4860"
+decided: "1946-01-21"
+citations: ["64 F. Supp. 86"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BERGOLD v. COMMERCIAL NAT. UNDERWRITERS, Inc., et al."]
+source_url: "https://static.case.law/f-supp/64/cases/0086-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 628446
+cites_cases: ["61 F.Supp. 639"]
+---
+
+# Bergold v. Commercial Nat. Underwriters, Inc.
+
+## Majority (HELVERING, District Judge.)
+
+HELVERING, District Judge.
+Opening statements were made to the Court on behalf of each of the parties by their respective counsel and plaintiff’s counsel announced in open court that the plaintiff would rely upon the testimony and evidence theretofore introduced at the hearings held in this case on the 19th, 22nd, and 24th days of May, 1945, and that submitted by depositions, for its proof of the allegations in the petition that the defendants were themselves engaged in the operation of the Rosedale Bath and Hotel Company through their agents at the time of the death of A. L. Bergold and, therefore, were civilly liable for the acts of said agents. To this statement no objection was entered by counsel for defendants.
+Whereupon, plaintiff introduced its evidence and rested. Defendants’ counsel then moved the Court for a directed verdict in favor of said defendants and demurred to the plaintiff’s evidence. Said motion and demurrer were, by the Court, overruled and said defendants introduced their evidence and rested. Arguments by counsel were then presented to the Court and counsel for the parties were given additional time in which to file briefs. It was agreed by counsel that upon the filing of said briefs the case should be considered submitted upon the record to the Court for its final determination.
+And now, on this 21st day of January, 1946, this cause comes on for filial determination by the Court and the Court, having fully considered all of the evidence submitted by each of the parties hereto and after due consideration of such evidence and the arguments and briefs of counsel, and being fully advised in the premises, makes the following findings of fact and conclusions of law:
+Findings of Fact
+1. J. W. Pierce was employed by one Sam Hudson prior to the 13th day of December, 1942, to act as manager of the Rosedale Bath and Hotel Company and its properties in Kansas City, Kansas, and was so employed on the 13th day of December, 1942.
+2. Sam Hudson was acting at the direction of and on behalf of and with authority from Commercial National Underwriters, Inc., a corporation, and Commercial Bankers Mutual Casualty Company, a corporation, in the employment of J. W. Pierce as manager of the Rosedale Bath and Hotel Company, a corporation, and its properties in Kansas City, Kansas.
+3. J. W. Pierce was engaged in the operation of the Rosedale Bath and Hotel Company, a corporation, and its properties in Kansas City, Kansas, on December 13, 1942, and at the time of the death of A. L. Bergold.
+4. J. W. Pierce was acting at the direction of and on behalf of Commercial National Underwriters, Inc., a corporation, and Commercial Bankers Mutual Casualty Company, a corporation, in the operation of the Rosedale Bath and Hotel Company, a corporation, on December 13, 1942, and at the time of the injury and death of A. L. Bergold.
+5. Commercial National Underwriters, Inc., a corporation, and Commercial Bankers Mutual Casualty Company, a corporation, were themselves engaged by and through their managing agent, J. W. Pierce, in the operation of the Rosedale Bath and Hotel Company, a corporation, and its properties in Kansas City, Kansas, on December 13, 1942, and at the time of the death of A. L. Bergold.
+6. That on the 13th day of December, 1942, at and on the physical properties of the Rosedale Bath and Hotel Company, a corporation, in Kansas -City, Kansas, the defendants Commercial National Underwriters, Inc., a corporation, and Commercial Bankers Mutual Casualty Company, a corporation, by and through their managing agent, J. W. Pierce, were engaged in the business of providing steam baths and lodging to those who desired the same for a stated consideration.
+7. On the 13th day of December, 1942, A. L. Bergold was a patron of the business establishment so operated by the defendants herein for a steam bath and lodging, and the charge for a steam bath and lodging was paid to J. W. Pierce by Mary Bergold, the plaintiff herein, on behalf of said A. L. Bergold.
+8. The steam boilers, steam pipes, valves, bath cabinets and all other equipment used at the properties of the Rose-dale Bath and Hotel Company, a corporation, for the purpose of giving steam baths to patrons were at ail times during the day of December 13, 1942, and at the time of the death of A. L. Bergold, under the exclusive control and management of the defendants Commercial National Underwriters, Inc., a corporation, atid Commercial Bankers Mutual Casualty Company, a corporation, their agents, servants and employees.
+9. A. L. Bergold was intoxicated when he became a patron of the bathhouse op-crated on the properties of the Rosedale Bath and Hotel Company, and the defendants’ agents, servants and employees then in charge of the operation of said bathhouse knew that he was intoxicated.
+10. A. L. Bergold, while occupying one of the bath cabinets at the bathhouse of the Rosedale Bath and Hotel Company, as a patron thereof and while under the care of an employee of the defendants Commercial National Underwriters, Inc., a corporation, and Commercial Bankers Mutual Casualty Company, a corporation, received second degree burns followed by shock which resulted in his death.
+11. No wrongful or careless act of commission or of omission on the part of ci-ther A. L. Bergold or the plaintiff in this case contributed in any manner to cause or bring about the injury or resultant death of A. L. Bergold.
+12. A. L. Bergold, at the time of his death, was fifty-six years of age and his life expectancy, taking into consideration his physical condition, was from three to ten years.
+13. The plaintiff and A. L. Bergold were married in 1921 and lived together as husband and wife for more than twenty-one years. A. L. Bergold was plaintiff’s sole support and in his lifetime had contributed more than $2,400 per year to plaintiff’s exclusive use and had expended in addition thereto at least $3,500 per year toward the joint living expenses of plaintiff and himself.
+14. The death of A. L. Bergold resulted in pecuniary loss to plaintiff in an amount in excess of $10,000.
+Conclusions of Law
+1. J. W. Pierce was the managing agent of Commercial National Underwriters, Inc., a corporation, and Commercial Bankers Mutual Casualty Company, a corporation, and was engaged in the management of the Roseddüe Bath and Hotel Company, a corporation, and its properties in Kansas City,' Kansas, for and on behalf of the above named defendant corporations on December 13, 1942, and at the time of the death of A. L. Bergold.
+2. The defendants Commercial National Underwriters, Inc., a corporation, and Commercial Bankers Mutual Casualty Company, a corporation, were engaged by and through J. W. Pierce and other servants, agents, and employees in the operation of the Rosedale Bath and Hotel Company, a corporation, and its properties_ in Kansas City, Kansas, on December 13, 1942, and at the time of the death of A. L. Bergold.
+3. A. L. Bergold’s death was caused by injuries sustained through an instrumentality under the exclusive control and management of said defendants, their agents, servants and employees, and the injury of A. L. Bergold while undergoing a steam bath which resulted in his death was an occurrence which, in the ordinary course of events, would not have happened if due care had been exercised by the said defendants, their agents, servants and employees.
+4. The circumstances surrounding the injury and subsequent death of A. L. Bergold were such as to leave no reasonable conclusion to be drawn therefrom other than that the casualty happened because of the negligence of the said defendants, their agents, servants and employees.
+5. The injuries which resulted in the death of A. L. Bergold and the death of A. L. Bergold were caused by the wrongful, careless, and negligent acts of said defendants, their agents, servants, and employees, and said negligent, wrongful and careless acts were the proximate cause of the death of said A. L. Bergold.
+6. No negligent, wrongful or careless act which contributed to. the injury or resultant death of A. L. Bergold was committed by either A. L. Bergold or the plaintiff in this cause and no such negligent, wrongful or careless act on the part of A. L. Bergold or of the plaintiff in this case was the proximate cause of the injury or resultant death of A. L. Bergold.
+7. The death of A. L. Bergold was caused by the wrongful acts or omissions of the said defendants, their agents, servants and employees under such circumstances that if the said A. L. Bergold had lived he might have maintained an^action against the said defendants for the injuries sustained by him.
+8. The plaintiff sustained pecuniary loss by reason of the death of the said A. L. Bergold in an amount in excess of $10,000.
+9. The plaintiff is entitled to judgment against said defendants for the sum of $10,-000 and the costs of this action.
+It is, therefore, by the Court, considered, ordered, adjudged, and decreed that the plaintiff, Mary Bergold, do have and recover of and from the defendants, Commercial National Underwriters, Inc., a corporation, and Commercial Bankers Mutual Casualty Company, a corporation, the sum of ten thousand ($10,000) dollars and that said defendants pay the costs of this action.
