@@ -1,0 +1,44 @@
+---
+court: "United States District Court for the Western District of Oklahoma"
+docket: "Civil Actions Nos. 1045, 1046"
+decided: "1942-10-19"
+citations: ["59 F. Supp. 18"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BYUS v. TRADERS COMPRESS CO. (two cases)."]
+source_url: "https://static.case.law/f-supp/59/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4219926
+cites_cases: ["29 U.S.C.A. § 206"]
+---
+
+# Byus v. Traders Compress Co.
+
+## Majority (BROADDUS, District Judge.)
+
+BROADDUS, District Judge.
+Findings of Fact
+The court finds the facts to be as follows :
+1. The Statement of Agreed Facts filed herein is hereby adopted and incorporated herein by reference.
+2. There is no allegation as to the plaintiffs having worked any hours for which they did not receive pay at the minimum rate per hour. Counsel for the plaintiffs stated in open court at the pretrial hearing that the plaintiffs were seeking to recover one-half of the basic hourly rate for all hours worked in excess of the maximum number of hours permitted by law to be worked at the basic rate.
+3. The plaintiff George Byus produced a record, which,he testified was made by him, of the number of hours which he worked for the defendant during each week. The court, taking into consideration the purported record itself, the testimony of George Byus and other witnesses, and the record testimony introduced upon the trial, finds that the record made by George Byus is not worthy of consideration and it shows on its face that it is not such a record that it is of any weight.
+4. The court finds that the course of dealing between each of the plaintiffs and the defendant, week to week and month to month and the number of hours worked by each of the plaintiffs, are shown by the records of the defendant and that record is the most accurate and reliable evidence of the number of hours worked by the respective plaintiffs during each week they worked as employees of the defendant. The court finds that the plaintiff George Byus was employed by and worked for the defendant only during the weeks and only for the number of hours each week and was paid for such work the wages as set forth in the defendant’s answer in case No. 1045. The court finds that the plaintiff Claude Byus was employed by and worked for the defendant only during the weeks and only for the number of hours each week and' was paid for such employment the wages as set forth in the defendant’s answer in case No. 1046. The court finds that the defendant paid to each of the plaintiffs an hourly rate equal to or greater than the minimum amount set forth in section 6 of the Fair Labor Standards Act of 1938, 29 U.S.C.A. § 206.
+5. During each week of the period involved in each of these cases the defend-. ant was engaged at its compress plant located near Oklahoma City in Oklahoma County, Oklahoma, in the compression of cotton and incidental to its compression operations it was engaged in storing and physically handling cotton in bales and shipping cotton for the account of its customers. Each of the plaintiffs was employed by and worked for the defendant in the business of compressing cotton as presser, truck driver and handyman.
+6. The evidence is insufficient to show that either of the plaintiffs performed any work of any character other than that incidental to the compressing of cotton. However, if there is evidence of any probative force as to any other work, such evidence is not within the pleadings. There were a number of hearings and that issue was not raised and for that additional reason will not be considered.
+7. The court finds that the plaintiff George Byus, from the commencement of his employment to October 23, 1940, worked 105% hours in excess of 42 hours per week and for the remainder of the period of his employment he worked 662% hours in excess of 40 hours per week.
+8. The court finds that the plaintiff Claude Byus, during the period from the commencement of his employment to October 23, 1939, worked 6% hours in excess of 44 hours, per week; for the period from October 23, 1939, to October 23, 1940, he worked 33 hours in excess of 42 hours per week; and for the period from October 23, 1940, for the remainder of his employment he worked 827% hours in excess of 40 hours per week.
+9. The administrator has found that the storage of cotton in cotton compress warehouse facilities is a seasonal industry within the meaning of sec. 207(b)(3) of the Fair Labor Standards Act and the regulations issued thereunder, and that such industry is entitled to the exemptions provided in sec. 207(b) of the Act. The court further finds that the defendant has designated the following weeks for each year of the period involved as the weeks coming within this exemption, to-wit:
+For the year 1939 the weeks ending: September 15, 23, 30; October 7, 21; November 4, 11, 18, 25; and December 2, 9, 16, 23, 30;
+For the year 1940 the weeks ending: July 5; October 4, 11, 18, 25; November 1, 8, 15, 22 and 29; December 5, 13, 20 and 27;
+For the year 1941 the weeks ending: April 4 and 11; May 2 and 30; June 13, 20 and 27; July 4, 11 and 18; August 22; September 12, 19 and 26.
+10. The court finds that each of the plaintiffs was employed in compressing cotton within a reasonable definition of the area of production. Cotton is produced in all parts of Oklahoma and within a distance of one mile East of defendant’s Oklahoma City compress. During the cotton seasons of 1939, 1940 and 1941, there was produced in Oklahoma County and counties contiguous to Oklahoma County an average of 49,791 bales of cotton per season and in the same years there was produced in Oklahoma County and counties contiguous to Oklahoma County and in counties contiguous to counties contiguous to Oklahoma County an average of 189,737 bales of cotton per season.
+11. The court further finds that for the period from July 1, 1939, to March 1, 1942, 99.4% of the cotton received at the defendant’s compress was received from points not more than 175 miles distant therefrom and that all of the cotton received at the defendant’s said compress was received from the general vicinity of said compress.
+Conclusions of Law
+1. The defendant was engaged in the business of compressing cotton within the meaning of sec. 207(c), 29 U.S.C.A., and each of the plaintiffs was employed in said place of business of the defendant and the provisions of subdiv. (a) of sec. 207, 29 U.S.C.A., did not apply to the plaintiffs as employees in defendant’s place of business.
+2. The court further concludes that the plaintiff in each of the cases is not •entitled to recover anything from the defendant as overtime pay for hours worked in excess of the maximum hours set out in subdiv. (a) of sec. 207. The defendant is engaged in an industry which has been found by the Administrator to be of a seasonal nature and is entitled to an exemption from the provisions of subdiv. (a) of •sec. 207, for a period of fourteen (14) work weeks in the aggregate in each calendar year, and subdiv. (b) (3) of sec. 207. ■So under this exemption the plaintiffs would be entitled to no overtime pay for hours worked during the weeks set out in ’Finding No. 9.
+3. The plaintiffs were not employed in an agricultural pursuit and the •exemption in sec. 213(a) (6) is not applicable.
+4. The plaintiffs were engaged in interstate handling of goods and the exemption in sec. (a) (2) has no application.
+5. The definition of the “area of •production” promulgated by the Administrator in connection with the exemption ■provided by Congress in sec. 213(a) (10) is capricious, arbitrary and entirely void. The court further concludes that the plaintiffs were employed in the compressing of ■cotton “within the area of production” within any reasonable definition of “area •of production” and within any valid definition of that term which might be promulgated by the Administrator. The court further concludes that during the entire time ■of his employment by the defendant, each •of the plaintiffs was exempt from the minimum wage, maximum hours and overtime provisions contained in secs. 206 and 207, .29 U.S.C.A., by reason of the exemption contained in subdiv. (10) of sec. 213(a).
+6. The court concludes that the plaintiffs are not entitled to recover anything ■of the defendant, but if the court should be in error in that conclusion and should the plaintiffs be entitled to recover overtime ■ compensation for any of the hours worked for the defendant, they would also be entitled to recover a reasonable attorney’s fee and the court concludes that such recovery is not barred by limitations.
+Let journal entry of judgment be entered in accordance with the court’s find-tings and conclusions of law.
